@@ -11,11 +11,11 @@ redirect_from:
 
 Education
 ======
-* B.A. in Hispanich Philology, University of Seville, 2012
+* B.A. in Hispanic Philology, University of Seville, 2012
 * M.A. in Literature and Theatre in the European Context, The National Distance Education University (UNED), Spain, 2014
 * M.A. in Teaching Spanish as a Second Language and other Modern Languages, University of Seville, 2015
 * M.A. in Hispanic Literatures, Indiana University, 2017
-* Ph.D in Hispanic Literatures, Indiana University, 2021 (expected)
+* Ph.D in Hispanic Literatures, Indiana University, Fall 2021 (expected)
 
 Work experience
 ======
