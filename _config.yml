@@ -82,8 +82,10 @@ analytics:
 author:
   name             : "Your Sidebar Name"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "ABD PhD Hispanic Literatures
+  Editorial Associate, Chiricú Journal
+  Indiana University"
+  location         : "Bloomington, Indiana (USA)"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
