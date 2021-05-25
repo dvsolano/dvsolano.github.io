@@ -14,7 +14,7 @@ location: "Bloomington, Indiana"
 * Spanish Grammar in Context (Spring 2017, Fall 2017, Fall 2018)
 * Second Year Spanish II (Fall 2016)
 * Second Year Spanish I (Spring 2016)
-* First Year Spanish (Fall 2015)  
+* First Year Spanish (Fall 2015)    
 # Study Abroad Teaching and Coordination
 * Introduction to Hispanic Cultures: The Cultural History of the Hispanic Caribbean, Santiago de los Caballeros, Dominican Republic (Summer 2019)  
 <br> Honors Program in Foreign Languages (IUHPFL)
