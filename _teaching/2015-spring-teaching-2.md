@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergaduate"
 permalink: /teaching/2015-spring-teaching-1
 venue: "Spanish & Portuguese Department"
-date: 
+date: 01-01-2021
 location: "Bloomington, Indiana"
 ---
 
