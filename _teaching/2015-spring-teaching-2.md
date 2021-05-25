@@ -16,7 +16,7 @@ location: "Bloomington, Indiana"
 * Second Year Spanish I (Spring 2016)
 * First Year Spanish (Fall 2015)
 
-<b> Study Abroad Teaching and Coordination
+**Study Abroad Teaching and Coordination
 * Introduction to Hispanic Cultures: The Cultural History of the Hispanic Caribbean, Santiago de los Caballeros, Dominican Republic (Summer 2019)
 
 Honors Program in Foreign Languages (IUHPFL)
