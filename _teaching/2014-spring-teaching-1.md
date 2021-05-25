@@ -1,14 +1,21 @@
 ---
-title: "Teaching experience 1"
+title: "University of Malta (2012-2014)"
 collection: teaching
-type: "Undergraduate course"
+type: "Spanish and Latin American Studies"
 permalink: /teaching/2014-spring-teaching-1
 venue: "University 1, Department"
 date: 2014-01-01
-location: "City, Country"
+location: "Msida, Malta"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Spanish Literature 2 (Siglo de Oro) (Fall 2013, Spring 2014)
+The Theory and Forms of Literary Works (Spring 2013)
+Women’s Image in Spanish Literature (Spring 2014)
+A History of the Spanish Language (Fall 2012)
+Grammatical Aspects of Spanish Language 2 (Fall 2013)
+Grammatical Aspects of Spanish Language 5 (Fall 2012, Fall 2013)
+Grammatical Aspects of Spanish Language 6 (Spring 2013)
+
 
 Heading 1
 ======
