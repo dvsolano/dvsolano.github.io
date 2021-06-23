@@ -22,14 +22,13 @@ Work experience
 * Editorial Associate, Chiricú Journal: Latina/o Literatures, Arts, and Cultures, 2021-2022
   * Latino Studies Program, Indiana University
   
-Skills
+Languages
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Spanish: Native
+* English: Near-Native
+* Portuguese: Advanced (CAPLE C1)
+* French: Writing and Reading Knowledge
+* Italian and Catalan: Reading knowledge
 
 Publications
 ======
