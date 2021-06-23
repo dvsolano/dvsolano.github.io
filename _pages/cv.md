@@ -52,4 +52,4 @@ Teaching
 Service and leadership
 ======
 * Co-Chair (2021-2022), Communications Officer (2020-2021)
-* Graduate Student Advisory Committee (GSAC), Dept. of Spanish and Portuguese, Indiana University (2020-2021).
+  * Graduate Student Advisory Committee (GSAC), Dept. of Spanish and Portuguese, Indiana University (2020-2021)
