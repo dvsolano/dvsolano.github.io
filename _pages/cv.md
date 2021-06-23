@@ -40,6 +40,13 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
+Service and leadership
+======
+* Co-Chair (2021-2022), Communications Officer (2020-2021)
+  * Graduate Student Advisory Committee (GSAC), Dept. of Spanish and Portuguese, Indiana University
+* Departmental Conversation Group Coordinator, “Café Hispano”, Dept. of Spanish and Portuguese, Indiana University (2018-2019)
+* B.A. Thesis Advisor, Spanish and Latin American Studies, University of Malta (2012-2014)
+
 Languages
 ======
 * Spanish: Native
@@ -49,14 +56,4 @@ Languages
 * Italian and Catalan: Reading knowledge
 
 
-  
 
-  
-
-  
-Service and leadership
-======
-* Co-Chair (2021-2022), Communications Officer (2020-2021)
-  * Graduate Student Advisory Committee (GSAC), Dept. of Spanish and Portuguese, Indiana University
-* Departmental Conversation Group Coordinator, “Café Hispano”, Dept. of Spanish and Portuguese, Indiana University (2018-2019)
-* B.A. Thesis Advisor, Spanish and Latin American Studies, University of Malta (2012-2014)
