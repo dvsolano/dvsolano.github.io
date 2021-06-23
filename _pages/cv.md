@@ -17,18 +17,16 @@ Education
 * M.A. in Literature and Theatre in the European Context, The National Distance Education University (UNED), Spain, 2014
 * B.A. in Hispanic Philology, University Complutense of Madrid, 2010, University of Seville, 2012
 
+Teaching
+======
+  <ul>{% for post in site.teaching %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
 Work experience
 ======
 * Editorial Associate, Chiricú Journal: Latina/o Literatures, Arts, and Cultures, 2021-2022
   * Latino Studies Program, Indiana University
-  
-Languages
-======
-* Spanish: Native
-* English: Near-Native
-* Portuguese: Advanced (CAPLE C1)
-* French: Writing and Reading Knowledge
-* Italian and Catalan: Reading knowledge
 
 Publications
 ======
@@ -42,11 +40,19 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
+Languages
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Spanish: Native
+* English: Near-Native
+* Portuguese: Advanced (CAPLE C1)
+* French: Writing and Reading Knowledge
+* Italian and Catalan: Reading knowledge
+
+
+  
+
+  
+
   
 Service and leadership
 ======
