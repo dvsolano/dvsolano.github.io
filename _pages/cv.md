@@ -20,8 +20,7 @@ Education
 Work experience
 ======
 * Editorial Associate, Chiricú Journal: Latina/o Literatures, Arts, and Cultures, 2021-2022
-  * Latino Studies Program
-  * Indiana University
+  * Latino Studies Program, Indiana University
   
 Skills
 ======
@@ -52,4 +51,5 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Co-Chair (2021-2022), Communications Officer (2020-2021)
+* Graduate Student Advisory Committee (GSAC), Dept. of Spanish and Portuguese, Indiana University (2020-2021).
