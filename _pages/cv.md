@@ -25,7 +25,7 @@ Teaching
 
 Work experience
 ======
-* Editorial Associate, [Chiricú Journal](https://scholarworks.iu.edu/iupjournals/index.php/chiricu): Latina/o Literatures, Arts, and Cultures, 2021-2022
+* Editorial Associate, [Chiricú Journal: Latina/o Literatures, Arts, and Cultures, 2021-2022](https://scholarworks.iu.edu/iupjournals/index.php/chiricu)
   * Latino Studies Program, Indiana University
 
 Publications
