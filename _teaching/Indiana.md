@@ -21,13 +21,3 @@ _Honors Program in Foreign Languages (IUHPFL)_
 - Literature Instructor and Finance Coordinator, Oviedo, Spain (Summer 2018)
 - Literature and Culture Instructor and Public Relations, Merida, Mexico (Summer 2017)
 
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
-
