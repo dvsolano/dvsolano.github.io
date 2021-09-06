@@ -2,7 +2,7 @@
 title: "Indiana University (2015-2021)"
 collection: teaching
 type: "Undergaduate Level"
-permalink: /teaching/2015-spring-teaching-1
+permalink: /teaching/Indiana
 venue: "Spanish & Portuguese Department"
 date: 01-01-2021
 
@@ -16,7 +16,7 @@ location: "Bloomington, Indiana"
 * Second Year Spanish I (Spring 2016)
 * First Year Spanish (Fall 2015)  
 <br/>    
-# Study Abroad Teaching and Coordination
+## Study Abroad Teaching and Coordination   
 * Introduction to Hispanic Cultures: The Cultural History of the Hispanic Caribbean, Santiago de los Caballeros, Dominican Republic (Summer 2019)  
 <br> Honors Program in Foreign Languages (IUHPFL)
 * Literature Instructor and Finance Coordinator, Oviedo, Spain (Summer 2018)
