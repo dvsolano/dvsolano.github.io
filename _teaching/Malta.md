@@ -2,7 +2,7 @@
 title: "University of Malta (2012-2014)"
 collection: teaching
 type: "Undergraduate Level"
-permalink: /teaching/2014-spring-teaching-1
+permalink: /teaching/Malta.md
 venue: "Spanish and Latin American Studies"
 date: 2014-01-01
 location: "Msida, Malta"
