@@ -15,11 +15,11 @@ location: "Bloomington, Indiana"
 * Second Year Spanish II (Fall 2016)
 * Second Year Spanish I (Spring 2016)
 * First Year Spanish (Fall 2015)     
-## Study Abroad Teaching and Coordination   
-* Introduction to Hispanic Cultures: The Cultural History of the Hispanic Caribbean, Santiago de los Caballeros, Dominican Republic (Summer 2019)  
-<br/> _Honors Program in Foreign Languages (IUHPFL)_
-* Literature Instructor and Finance Coordinator, Oviedo, Spain (Summer 2018)
-* Literature and Culture Instructor and Public Relations, Merida, Mexico (Summer 2017)
+**Study Abroad Teaching and Coordination**   
+- Introduction to Hispanic Cultures: The Cultural History of the Hispanic Caribbean, Santiago de los Caballeros, Dominican Republic (Summer 2019)  
+_Honors Program in Foreign Languages (IUHPFL)_
+- Literature Instructor and Finance Coordinator, Oviedo, Spain (Summer 2018)
+- Literature and Culture Instructor and Public Relations, Merida, Mexico (Summer 2017)
 
 
 Heading 1
