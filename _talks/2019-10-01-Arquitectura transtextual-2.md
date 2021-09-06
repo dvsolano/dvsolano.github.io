@@ -2,12 +2,8 @@
 title: "Arquitectura transtextual de los testimonios centroamericanos durante la Guerra Fría: Análisis de ejemplos y una tentativa de teorización"
 collection: talks
 type: "I Jornadas Internacionales de Estudios Críticos sobre Literatura Latinoamericana"
-permalink: /talks/2014-02-01-talk-2
+permalink: /talks/2014-02-01-2019-10-01-Arquitectura transtextual-2.md
 venue: "University of Seville"
 date: 2019-10-01
 location: "Seville, Spain"
 ---
-
-[More information here](http://example2.com)
-
-This is a description of your talk, which is a markdown files that can be all markdown-ified like any other post. Yay markdown!
