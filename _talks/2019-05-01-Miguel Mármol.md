@@ -2,10 +2,9 @@
 title: "Miguel Mármol, aspirante a mártir marxista: Testimonio y verdad en Miguel Mármol (1972), de Roque Dalton"
 collection: talks
 type: "Latin American Studies Association, LASA 2019"
-permalink: /talks/2014-03-01-talk-3
+permalink: /talks/2019-05-01-Miguel Mármol.md
 venue: "University of Pittsburg"
-date: 2014-03-01
+date: 2019-05-01
 location: "Boston, Massachusetts"
 ---
 
-This is a description of your conference proceedings talk, note the different field in type. You can put anything in this field.
