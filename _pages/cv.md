@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "[CV](_pages/CV_Fall_2021_Research.pdf)"
+title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
