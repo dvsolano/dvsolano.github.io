@@ -16,4 +16,4 @@ Focusing on the highly popular testimonio narratives that were key to Central Am
 # News #
 - Café Hispano. Every Wednesday, 6.00-7.30.
 [Flyer](_pages/Cafe%CC%81%20hispano%20flyer.pdf)
-- Defense date. Wednesday, September 22nd 
+- Defense date. Wednesday, September 29nd 
