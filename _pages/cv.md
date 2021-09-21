@@ -55,7 +55,7 @@ Languages
 * French: Writing and Reading Knowledge
 * Italian and Catalan: Reading knowledge
 
-[Complete CV](_pages/CV_Fall_2021_Research.pdf) (last update: September 21)
+[Complete CV](CV_Fall_2021_Research.pdf) (last update: September 21)
 
 
 
