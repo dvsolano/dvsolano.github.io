@@ -6,4 +6,4 @@ author_profile: true
 redirect_from:
 ---
 
-[Complete Portfolio](dvsolano.github.io/_pages/Portfolio.pdf) (Last update: October 21)
+[Complete Portfolio](/_pages/Portfolio.pdf) (Last update: October 21)
