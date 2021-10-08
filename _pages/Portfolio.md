@@ -1,1 +1,8 @@
+---
+layout: archive
+title: "Portfolio"
+permalink: /portfolio/
+author_profile: true
+---
 
+[Complete Portfolio](_pages/Portfolio.pdf) (Last update: October 21)
