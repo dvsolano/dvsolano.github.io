@@ -55,7 +55,7 @@ Languages
 * French: Writing and Reading Knowledge
 * Italian and Catalan: Reading knowledge
 
-[Complete CV](dvsolano.github.io/_pages/CV%20Fall%202021%20Research.pdf) (Last update: October 21)
+[Complete CV](/_pages/CV%20Fall%202021%20Research.pdf) (Last update: October 21)
 
 
 
