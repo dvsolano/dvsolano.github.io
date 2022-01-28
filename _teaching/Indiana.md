@@ -20,6 +20,7 @@ location: "Bloomington, Indiana"
   - Introduction to Hispanic Cultures: The Cultural History of the Hispanic Caribbean, Santiago de los Caballeros, Dominican Republic (Summer 2019)  
     
 _Honors Program in Foreign Languages (IUHPFL)_
+  - Communications, Linguistics and Phonetics Instructor, Finance Coordinator, Ciudad Real, Spain (Summer 2022).
   - Literature Instructor and Finance Coordinator, Oviedo, Spain (Summer 2018)
   - Literature and Culture Instructor and Public Relations, Merida, Mexico (Summer 2017)
 
